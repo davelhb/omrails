@@ -6,6 +6,7 @@ source 'https://rubygems.org'
 	gem 'devise'
 	gem 'simple_form', "3.0.0.rc"
 	gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
+	gem 'aws-sdk'
 	gem 'turbolinks'
 
 group:production do
